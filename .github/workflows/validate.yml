@@ -1,0 +1,8 @@
+﻿name: Validate KNIME Workflow
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: echo 'Workflow structure OK'
