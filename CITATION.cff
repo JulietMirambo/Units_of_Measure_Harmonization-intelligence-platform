@@ -1,0 +1,23 @@
+﻿cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Mirambo"
+    given-names: "Juliet Bosibori"
+    email: "juliet.mirambo@example.com"
+title: "Units of Measure Harmonization Intelligence Platform"
+version: 1.0.0
+date-released: 2025-10-20
+url: "https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform"
+license: MIT
+repository-code: "https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform"
+keywords:
+  - machine-learning
+  - data-quality
+  - automation
+  - manufacturing
+  - knime
+  - unit-conversion
+  - error-detection
+  - supply-chain
+type: software
+abstract: "Production-grade ML system for automated Unit of Measure error detection achieving 88-92% accuracy and 94% autonomy. Built with KNIME, XGBoost, and reinforcement learning."
