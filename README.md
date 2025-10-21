@@ -303,12 +303,6 @@ If you use this in your research or product:
 - Improve documentation
 - Report bugs
 
-### Financial Support
-- [GitHub Sponsors](https://github.com/sponsors/JulietMirambo)
-- [Buy me a coffee](https://ko-fi.com/JulietMirambo)
-- [Hire me for consulting](mailto:juliet.mirambo@example.com)
-
-Every star and contribution helps make this project better!
 
 ---
 
