@@ -11,7 +11,6 @@
 [![KNIME](https://img.shields.io/badge/KNIME-4.5%2B-orange.svg)](https://www.knime.com/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**88-92% Accuracy** | **94% Autonomy** | **3,300 Records/min** | **95%+ Success Rate**
 
 [Quick Start](#quick-start) | [Demo](#see-it-in-action) | [Features](#key-features) | [Docs](#documentation) | [Contribute](#contributing)
 
