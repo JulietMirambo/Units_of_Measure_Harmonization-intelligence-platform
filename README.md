@@ -253,17 +253,6 @@ Key conditions:
 
 ---
 
-## Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/JulietMirambo/=social)
-![GitHub forks](https://img.shields.io/github/forks/JulietMirambo/=social)
-![GitHub watchers](https://img.shields.io/github/watchers/JulietMirambo/=social)
-![GitHub issues](https://img.shields.io/github/issues/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform)
-![GitHub last commit](https://img.shields.io/github/last-commit/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform)
-
----
-
 ## Roadmap
 
 ### Current Version (v1.0)
@@ -285,9 +274,8 @@ Key conditions:
 
 <div align="center">
 
-**Made with love by [Juliet Bosibori Mirambo](https://github.com/JulietMirambo)**
 
-[![GitHub followers](https://img.shields.io/github/followers/=social)](https://github.com/JulietMirambo)
+
 
 **[Back to Top](#units-of-measure-harmonization-intelligence-platform)**
 
