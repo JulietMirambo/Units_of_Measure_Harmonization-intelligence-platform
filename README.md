@@ -9,7 +9,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform.svg?style=social&label=Star)](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform.svg?style=social&label=Fork)](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/network)
 [![KNIME](https://img.shields.io/badge/KNIME-4.5%2B-orange.svg)](https://www.knime.com/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 
 [Quick Start](#quick-start) | [Demo](#see-it-in-action) | [Features](#key-features) | [Docs](#documentation) | [Contribute](#contributing)
