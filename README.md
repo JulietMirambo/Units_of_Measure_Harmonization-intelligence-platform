@@ -4,7 +4,7 @@
 
 ### Production-Grade ML System for Automated UOM Error Detection
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub release](https://img.shields.io/github/release/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform.svg)](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/releases)
 [![GitHub stars](https://img.shields.io/github/stars/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform.svg?style=social&label=Star)](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform.svg?style=social&label=Fork)](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/network)
@@ -19,7 +19,6 @@
 
 ---
 
-## The Million-Dollar Problem
 
 **Manufacturing and procurement organizations lose millions annually** due to Unit of Measure (UOM) errors.
 
@@ -30,18 +29,6 @@ A single misplaced decimal or wrong unit causes:
 - Financial losses (incorrect billing, waste)
 - Compliance issues (regulatory violations)
 
-**Traditional manual review**: 70% accuracy, 500 records/hour, 40% autonomy  
-**This platform**: 88-92% accuracy, 3,300 records/min, 94% autonomy
-
-**This platform stops the bleeding.**
-
----
-
-## The Solution
-
-An intelligent **KNIME-powered ML system** that automatically detects and corrects UOM errors with enterprise-grade accuracy.
-
-Built on proven machine learning and physics-based validation, this platform transforms error-prone manual processes into automated, reliable data quality assurance.
 
 ---
 
@@ -113,17 +100,6 @@ cd Units_of_Measure_Harmonization-intelligence-platform
 **[Detailed Installation Guide](docs/INSTALLATION.md)**
 
 ---
-
-## Key Features
-
-### Performance Metrics
-
-| Metric | Value | vs Manual | Improvement |
-|--------|-------|-----------|-------------|
-| **Accuracy** | 88-92% | ~70% | **+26%** |
-| **Autonomy** | 94% | ~40% | **+135%** |
-| **Speed** | 3,300/min | ~500/min | **+560%** |
-| **Success Rate** | 95%+ | ~80% | **+19%** |
 
 ### Technology Stack
 
@@ -239,44 +215,31 @@ This platform solves UOM problems across industries:
 
 ---
 
-## Contributing
 
-We love contributions! This project thrives on community input.
 
-### Ways to Contribute
 
-- [Report Bugs](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/issues/new?template=bug_report.md)
-- [Request Features](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/issues/new?template=feature_request.md)
-- Submit Pull Requests
-- Improve Documentation
-- Star the Repository
-- Share Your Success Story
-- Join [Discussions](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/discussions)
-
-**[Contributing Guide](CONTRIBUTING.md)**
 
 ---
 
-## License
 
-MIT License - **Free for commercial use!**
+### Academic Citation
+## License
+Apache License 2.0 - **Free for commercial use!**
 
 This means you can:
 - Use commercially without restrictions
 - Modify and distribute freely
+- Distribute your own versions (with attribution)
 - Use privately in your organization
-- Sublicense as needed
+- Grant sublicenses as needed
+- Patent use is explicitly granted
+
+Key conditions:
+- Must include a copy of this license in distributions
+- Modified files must carry prominent change notices
+- Copyright and license notices must be preserved
 
 **[Full License Text](LICENSE)**
-
----
-
-## Recognition & Citation
-
-If you use this in your research or product:
-
-### Academic Citation
-
 ```bibtex
 @software{mirambo2025uom,
   author = {Mirambo, Juliet Bosibori},
@@ -287,37 +250,7 @@ If you use this in your research or product:
 }
 ```
 
-**[Download Citation File](CITATION.cff)**
 
----
-
-## Support This Project
-
-**If this project saved you time or money:**
-
-### Free Ways to Support
-- Star this repository
-- Fork and customize it
-- Share with colleagues and on social media
-- Engage in discussions and issues
-- Improve documentation
-- Report bugs
-
-
----
-
-## Contact & Support
-
-### Get Help
-- [GitHub Discussions](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/discussions) - Community Q&A
-- [Issue Tracker](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/issues) - Bug reports & features
-- Email: juliet.mirambo@example.com
-- LinkedIn: [linkedin.com/in/julietmirambo](https://linkedin.com/in/julietmirambo)
-
-### Stay Updated
-- **Watch** this repo for updates
-- **Star** to bookmark
-- [Subscribe to releases](https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform/releases)
 
 ---
 
