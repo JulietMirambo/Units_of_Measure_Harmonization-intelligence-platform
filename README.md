@@ -281,8 +281,6 @@ Key conditions:
 
 ---
 
-*Star this repo to stay updated!* | *Fork to customize for your needs!* | *Share with your network!*
-
 **Repository Topics:** machine-learning | data-quality | knime | automation | manufacturing | supply-chain | data-cleaning | unit-conversion | artificial-intelligence | production-ready
 
 </div>
